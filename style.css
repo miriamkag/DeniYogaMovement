@@ -1,0 +1,96 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+header{
+  height: 100px;
+  color: #2D6963;
+  text-align: center;
+  }
+
+[class*=col-]{
+  padding-bottom: 0;
+  height: 50px;
+  vertical-align: center;
+}
+
+
+h1{
+  font-family: 'Courgette', cursive;
+  font-weight: lighter;
+}
+
+nav{
+    vertical-align: middle;
+}
+
+nav a{
+  text-decoration: none;
+  color: inherit;
+  padding-right: 15%;
+  font-size: 2vh;
+}
+
+.mainphoto{
+  background-image: url("Images/JAN_2479.jpg");
+  height: 520px;
+  background-position: 50% 80%;
+  background-size: cover;
+}
+
+
+main{
+  height: 50vh;
+  padding: 3% 3%;
+}
+
+.photo2{
+  background-image: url("Images/aboutme.jpg");
+  height: 45vh;
+  background-position: 50% 10%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.me, .contact{
+  padding-left: 3%;
+}
+
+p{
+  font-size: 2vh;
+  line-height: 3.5vh;
+  text-align: justify;
+}
+
+h2{
+  color: #51A881;
+  padding-bottom: 1vh;
+}
+
+.reviewcontact{
+  height: 50vh;
+  padding: 3% 3%;
+}
+
+
+/*section{
+  margin-left: 10px;
+  line-height: 1.2rem;
+  text-align: justify;
+  background-color: rgb(250, 250, 250, 0.8);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+
+
+*/
+
+
+footer{
+height:80px;
+background-color: #fed8ec;
+text-align: center;
+border: 1px solid transparent;
+}
