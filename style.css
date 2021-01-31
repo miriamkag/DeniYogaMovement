@@ -119,7 +119,69 @@ iframe{
 
 */
 
+/*Gallery*/
+.row {
+  margin: 15px;
+}
 
+.gallery{
+  height: 200vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.gallery1{
+  background-image: url("Images/Yoga-8013.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0% 2%
+}
+
+.gallery2{
+  background-image: url("Images/JAN_2590.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+}
+
+.gallery3{
+  background-image: url("Images/JAN_2460.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0 2%
+}
+
+.gallery4{
+  background-image: url("Images/JAN_2590.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0 2%
+}
+
+.gallery5{
+  background-image: url("Images/Yoga-8013.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0 2%
+}
+
+.gallery6{
+  background-image: url("Images/JAN_2590.jpg");
+  height: 520px;
+  background-position: 50% 50%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0 2%
+}
 
 footer{
 height:6vh;
